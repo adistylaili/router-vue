@@ -1,5 +1,5 @@
 <template>
-    <h1> Page About </h1>
+    <h1> Welcome to GPP System </h1>
 </template>
 
 <script>

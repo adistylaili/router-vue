@@ -1,5 +1,5 @@
 <template>
-    <h1> halaman user </h1>
+    <h1> Page User </h1>
 </template>
 
 <script>
